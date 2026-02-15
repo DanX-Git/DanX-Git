@@ -39,11 +39,11 @@
 
 
   <!-- Total Stars -->
-  <a href="https://github.com/joshuathadi?tab=repositories&sort=stargazers" target="_blank">
+  <a href="https://github.com/DanX-Git?tab=repositories&sort=stargazers" target="_blank">
     <img alt="Total Stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/joshuathadi?style=for-the-badge&label=Stars&color=bf616a&logo=github" /></a>
 
   <!-- Followers -->
-  <a href="https://github.com/joshuathadi?tab=followers" target="_blank">
+  <a href="https://github.com/DanX-Git?tab=followers" target="_blank">
     <img alt="Followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/joshuathadi?style=for-the-badge&label=Followers&color=5e81ac&logo=github" /></a>
 </div>
 
@@ -52,15 +52,27 @@
 <!-- About Me -->
 <h3 align="left">💫 About Me</h3>
 <p>
-  🌱 I am currently working on and developing my programming skills.<br>
-  🔭 I worked on .NET Framework and have experience in ASP.NET MVC.<br>
-  💬 Skills I acquire in programming languages such as Python, SQL.<br>
-  ⚡ Interest in DS/AI/ML, Automation, Development/Engineering, etc.<br>
+  Hi, I'm Harsh 👋  
+
+AI & Data Science Enthusiast | Flutter Developer | Problem Solver  
+
+I build intelligent systems and scalable applications that solve real-world problems.  
+Passionate about Artificial Intelligence, Machine Learning, and Data-Driven Solutions.  
+
+🔹 Skilled in: Python, Flutter, Dart, Data Structures & Algorithms  
+🔹 Exploring: AI Models, Deep Learning, and System Design  
+🔹 Building: Smart campus solutions & innovative tech products  
+🔹 Hackathon Enthusiast | Continuous Learner  
+
+I believe in writing clean, efficient code and building impactful technology.
+
+Let’s build something amazing 🚀
+
 </p>
 
 <h3>🧲 Drop me a line:</h3>
 <div align="center">
-  <a href="mailto:thadijoshua@gmail.com"><img width="55px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/gmail_new_logo.png" alt="Gmail" /></a>
+  <a href="mailto:harshgtmm06@gmail.com"><img width="55px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/gmail_new_logo.png" alt="Gmail" /></a>
   <a href="https://www.linkedin.com/in/joshuathadi" target="_blank"><img width="55px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/linkedin-blue.png" alt="LinkedIn" /></a>
   <a href="https://masterjudah-bashfolio.netlify.app/" target="_blank"><img width="55px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/11zon_cropped.png" alt="Portfolio" /></a>
   <a href="https://open.spotify.com/playlist/4FMOBw7eopNczgfzspCvIP" target="_blank"><img width="55px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/spotify-icon.png" alt="Spotify" /></a>
