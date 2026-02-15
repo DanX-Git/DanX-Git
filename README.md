@@ -40,11 +40,11 @@
 
   <!-- Total Stars -->
   <a href="https://github.com/DanX-Git?tab=repositories&sort=stargazers" target="_blank">
-    <img alt="Total Stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/joshuathadi?style=for-the-badge&label=Stars&color=bf616a&logo=github" /></a>
+    <img alt="Total Stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/DanX-Git?style=for-the-badge&label=Stars&color=bf616a&logo=github" /></a>
 
   <!-- Followers -->
   <a href="https://github.com/DanX-Git?tab=followers" target="_blank">
-    <img alt="Followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/joshuathadi?style=for-the-badge&label=Followers&color=5e81ac&logo=github" /></a>
+    <img alt="Followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/DanX-Git?style=for-the-badge&label=Followers&color=5e81ac&logo=github" /></a>
 </div>
 
 <img align="left" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif" />
