@@ -20,9 +20,10 @@
 -->
 
 <!-- MasterHead -->
-<a href="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout_grayscale%20(1).gif">
-  <img width="1000" height="500" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/BEZEHEL.gif" alt="Fallout GIF"/>
+<a href="https://github.com/DanX-Git/DanX-Git/blob/main/background.gif">
+  <img width="100%" src="https://raw.githubusercontent.com/DanX-Git/DanX-Git/main/background.gif" alt="Background GIF"/>
 </a>
+
 
 <!-- Greeting -->
 <!--<h2 align="center">❂ I am Joshua Thadi</h2>-->
